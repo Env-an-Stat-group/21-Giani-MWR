@@ -1,2 +1,3 @@
 # 21.Giani.MWR
-Namelists for the simulation set of MWR paper
+Publicly available namelists for the simulation set of MWR21 paper
+R0
